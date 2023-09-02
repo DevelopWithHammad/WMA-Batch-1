@@ -1,0 +1,61 @@
+/* Inheritance */
+
+/* #main-container {
+    color: blue;
+    background-color: rgb(34, 34, 34);
+   
+}
+
+#span-1 {
+    color: green;
+    background-color: rgb(255, 1, 1);
+}
+
+
+#span-2 {
+    color: initial;
+    background-color: initial;
+
+}
+
+
+#span-3 {
+    color: inherit;
+    background-color: inherit;
+} */
+
+
+
+/*  color in css  */
+
+/* simple color */
+#list-1 {
+    color: white;
+}
+
+
+/* hex code */
+#navbar {
+    background-color:  #e34c26;
+}
+
+/* hard coded */
+#list-2 {
+    color:  orange;
+}
+
+
+/* rgb values */
+/* #list-3 {
+    color:  rgb(100, 100, 90)
+} */
+
+
+
+
+
+
+
+
+
+
