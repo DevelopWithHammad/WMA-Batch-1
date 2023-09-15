@@ -1,0 +1,49 @@
+ #btn {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+#btn:hover {
+    background-color: rgb(103, 2, 103);
+}
+
+#btn:active {
+    background-color: rgb(157, 15, 157);
+} 
+
+
+
+
+/* #userInput {
+    width: 250px;
+    height: 40px;
+}
+
+#userInput:focus {
+    outline: none;
+} */
+
+
+/* #btn:hover {
+    background-color: purple;
+    color: white;
+    transition: 500ms ease-in-out;
+} */
+
+
+
+/* #link {
+    font-size: 32px;
+    color: rgb(49, 49, 49);
+    text-decoration: none;
+}
+
+
+#link:hover {
+    text-decoration: underline;
+} */
