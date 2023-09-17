@@ -1,0 +1,106 @@
+* {
+    font-family: sans-serif;
+    color: rgb(28, 28, 28);
+}
+
+body {
+    background-color: rgb(196, 196, 196);
+}
+
+
+#main-container {
+    width: 60%;
+    margin: 70px auto;
+}
+
+#head {
+    text-align: center;
+    cursor: move;
+}
+
+#head>h1 {
+    margin: -5px;
+}
+
+
+#navbar {
+    margin-top: 50px;
+
+}
+
+#navbar>ul {
+    border: 2px solid black;
+    border-right: none;
+    border-left: none;
+    padding: 10px;
+}
+
+
+
+#navbar>ul>li {
+    display: inline;
+    margin: 46px;
+}
+
+#navbar>ul>li>a {
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+
+#navbar>ul>li>a:hover {
+    color: blueviolet;
+    transition: 300ms ease-in;
+}
+
+
+
+
+#images {
+
+}
+
+#images>img {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+#para {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+} 
+
+
+
+
+
+
+/* .list { */
+    /* list-style-type: lower-alpha; */
+    /* list-style-image: url("assests/piano.jpg"); */
+/* } */
+
+
+
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;
+}
+
+.one {
+
+    background-color: red;
+}
+
+.two {
+    border-collapse: collapse;
+    background-color: yellow;
+} */
+
+
+
+
