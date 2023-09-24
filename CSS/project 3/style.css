@@ -1,0 +1,45 @@
+* {
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+    background-color: rgb(2, 50, 29);
+}
+
+#leftdiv {
+    /* background-color: blue; */
+    width: 300px;
+    height: 626px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 30px;
+}
+
+#lefttopDiv {
+    /* background-color: red; */
+}
+
+#lefttopDiv > h1 {
+    font-weight: 900;
+    font-size: 30px;
+    color: white;
+}
+
+#lefttopDiv > p {
+    color: white;
+}
+
+
+#bottomDiv {
+    /* background-color: rgb(34, 196, 13); */
+     margin-top: 250px;
+}
+
+
+.image {
+    margin-left: 800px;
+    margin-top: -950px;
+    margin-bottom: 50px;
+}
