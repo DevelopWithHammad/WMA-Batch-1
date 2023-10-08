@@ -1,0 +1,106 @@
+/* Float */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.box {
+    background-color: cadetblue;
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+
+.left {
+    float: left;
+}
+
+
+.right {
+    float: right;
+}
+
+.para {
+    background-color: red;
+    height: 150px;
+    display: flex;
+    align-items: center;
+} */
+
+
+
+
+
+/* Media Query */
+
+.box {
+    font-size: 60px;
+}
+
+@media (max-width:400px) {
+    #box-1 {
+        background-color: rgb(255, 170, 0);
+    }
+}
+
+@media (min-width:401px) and (max-width:830px) {
+    #box-2 {
+        background-color: rgb(162, 225, 15);
+    }
+}
+
+
+@media (min-width:831px) and (max-width:1200px) {
+    #box-3 {
+        background-color: rgb(15, 155, 225);
+    }
+}
+
+
+@media (min-width:1201px) {
+    #box-4 {
+        background-color: rgb(222, 9, 208);
+    }
+}
+
+
+
+
+
+/* @media (max-width:392px) {
+    #box-1 {
+        background-color: rgb(255, 170, 0);
+        color: white;
+        display: block;
+    }
+}
+
+@media (min-width: 393px) and (max-width:819px) {
+    #box-2 {
+        background-color: gray;
+        color: white;
+        display: block;
+
+    }
+}
+
+@media (min-width: 820px) and (max-width:1199px) {
+    #box-3 {
+        background-color: rgb(242, 255, 5);
+        color: white;
+        display: block;
+
+    }
+}
+
+@media (min-width: 1200px) and (max-width:1500px) {
+    #box-4 {
+        background-color: rgb(5, 155, 255);
+        color: white;
+        display: block;
+
+    }
+} */
